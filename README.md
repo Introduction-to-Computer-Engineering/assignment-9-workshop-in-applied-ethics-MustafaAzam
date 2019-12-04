@@ -35,8 +35,10 @@
 ### Answer the Questions
 
 1. If all people were ethical in all their interactions, which centerpiece of modern society would be obviated?
-
+	Punishments will be obviated because if no one breaks rules, no one will face consequences.
+	
 2. Ethics creates a dichotomy between the comfort of the individual and the longevity, or mere existance, of the group. Give an example of an extreme case from recent history that favored the group to the detriment of the individual. How would you embed the principle of balance of the interests of the individual and the group into the ethical code itself? Be specific.
+	
 
 3. **(BONUS)** Ethical codes are vulnerable to the [tragedy of the commons](https://en.wikipedia.org/wiki/Tragedy_of_the_commons). An ethical code relies on the _cooperation_ of the individuals. Discuss how rogue behavior (aka _defection_) with respect to the ethical code of a group gives rise to the [prinsoner's dilemma](https://en.wikipedia.org/wiki/Prisoner's_dilemma) and the eventual demise of the ethical code. What incentives can you build in the ethical code that would counteract the attractiveness of defection and, as a result, would mitigate the danger to the code?
 
