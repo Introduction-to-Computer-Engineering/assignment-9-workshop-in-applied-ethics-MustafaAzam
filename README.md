@@ -52,10 +52,12 @@ _Note: Class activities are group but individual submissions are required for gr
    - Mustafa A
    - Logan P
    - Jackie W
+   
    2. Pick a president and write their name below.
    - Logan P 
+   
    3. Describe your technical innovation below.
-   - Fully immersed Virtual Realit. Shuts down bodily function and creates a virtual world inside your mind to make the feeling of virtual reality feel more realistic.
+   - Fully immersed Virtual Reality. Shuts down bodily function and creates a virtual world inside your mind to make the feeling of virtual reality feel more realistic.
    
 2. Describe the ways your innovation, if realized, would affect society. 
    1. Below, list at least 3 adverse effects (including but not limited to _misuse_) of the innovation and anticipatory actions and mechanisms you can embed that
@@ -65,6 +67,7 @@ _Note: Class activities are group but individual submissions are required for gr
    - Potential long term effect on brain: Taking breaks, making sure people spend more time irl than in the game. 
    - Negative psychological effects: COmputer program that serves as a therapist. 
    - Surronding enviornment isuues: Notifications for dangers detected around user body
+   
    2. Below, give an _explicit_ definition of the fine line between the benefit and detriment of your innovation at two moments of its lifetime: (i) immediately upon launch; 
  	  - Benefit: Having an alternate reality 	
 	  - Detriment: Becoming inapt to the real world due to spending too  much time.
@@ -88,10 +91,14 @@ _Note: Class activities are group but individual submissions are required for gr
 	-Private user data can not be sold for profit by any team member.
 	-All items in the company shall be confidential, unless otherwise noted.
 	-Breaking any part of the code of conduct will be subject to evaluation which may result in immediate termination.
+	
    1. Below, discuss how and why the Code has been weakened.
+   
    	The code was immedieatly weaked because any consequence was removed from the actual code. It also lets employess profit from confidential material.  
+	
    2. Below, discuss how, in retrospect, you should have stated the points of the Code, to make it _robust to disruption_. _Note: Beware of the [paradox of self-amendment](https://legacy.earlham.edu/~peters/writing/psaessay.htm), which, in short, **"...arises when a rule is used as the authority for its own amendment. It is sharper when the rule of change is supreme, sharper still when it is changed into a form that is inconsistent with its original form, and sharpest of all when the change purports to be irrevocable."**_
-   	In our code, we wrote a rule where all changes to the code of conduct must be unanimous and that that rule could not be changed. Rules like this make the code of conduct harder to weaken. 
+   	
+	In our code, we wrote a rule where all changes to the code of conduct must be unanimous and that that rule could not be changed. Rules like this make the code of conduct harder to weaken. 
 
 
 #### The Band
